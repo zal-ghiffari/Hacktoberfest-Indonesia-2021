@@ -1,7 +1,7 @@
 # Nama
 M Novrizal
 
-<img src="" width="200" height="200" align="center"/>
+<img src="https://i1.sndcdn.com/avatars-uZj0zejkMgKyAyQi-OCwP5w-t500x500.jpg" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 Bogor
@@ -29,4 +29,4 @@ Dart, Python, Java, PHP
 
 ### Profile Link
 
-[Nama](https://github.com/zal-ghiffari)
+[zazal](https://github.com/zal-ghiffari)
